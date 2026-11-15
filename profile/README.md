@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hyundai-Motor-Competition/iLink-Vehicle/main/docs/images/demo/pickup.gif" width="820" alt="출발부터 탑승 완료까지" />
 </p>
-<p align="center"><sub>차량 앱: 출발부터 탑승 완료까지 (빨리 감기)</sub></p>
+<p align="center"><sub>차량 · 자녀 · 보호자 화면: 출발부터 탑승 완료까지 (빨리 감기)</sub></p>
 
 ## 화면
 

@@ -12,7 +12,7 @@ iLink는 학원 하원 픽업을 돕는 서비스입니다.
 [iLink-Client](https://github.com/Hyundai-Motor-Competition/iLink-Client) — 보호자 · 자녀 모바일 앱 (React Native),
 [iLink-server](https://github.com/Hyundai-Motor-Competition/iLink-server) — 공용 백엔드 (Spring Boot)
 
-<img src="https://raw.githubusercontent.com/Hyundai-Motor-Competition/.github/main/profile/architecture.svg" alt="iLink System Architecture" />
+<img src="https://raw.githubusercontent.com/Hyundai-Motor-Competition/.github/main/profile/architecture.svg?v=2" alt="iLink System Architecture" />
 
 **About this GitHub org**.
 2026 Hyundai Motor Competition에 참가한 iLink 팀의 조직입니다.

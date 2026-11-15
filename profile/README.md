@@ -79,16 +79,11 @@
   </tr>
 </table>
 
-## 구조
+## 아키텍처
 
-```mermaid
-flowchart LR
-    V["🚗 차량 앱<br/>Pleos Connect"] -- "기어 · 도어 · 위치 · 길안내" --> S["🖥️ iLink Server"]
-    S -- "실시간 상태" --> V
-    S -- "준비 알림 · 호출" --> C["🧒 자녀 앱"]
-    S -- "진행 현황" --> G["👩 보호자 앱"]
-    G -- "일정 · 장소 · 설정" --> S
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hyundai-Motor-Competition/.github/main/profile/architecture.svg" alt="iLink System Architecture" />
+</p>
 
 ## 안전과 개인정보
 

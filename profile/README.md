@@ -9,6 +9,6 @@
 
 ### 시스템 아키텍처
 
-<img src="https://raw.githubusercontent.com/Hyundai-Motor-Competition/.github/main/profile/ilink-architecture.svg" alt="iLink 시스템 아키텍처" />
+<img src="https://raw.githubusercontent.com/Hyundai-Motor-Competition/.github/main/profile/ilink-system-architecture.svg" alt="iLink 시스템 아키텍처" />
 
-2026 Hyundai Motor Competition 참가팀 iLink
+[2026 현대자동차그룹 차량용 앱 개발 공모전](https://appdevchallenge.auto-hmg.io/) 참가팀 iLink
